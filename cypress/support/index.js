@@ -18,3 +18,6 @@ import './commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+// Import commands.js using ES2015 syntax:
+// import 'cypress-metamask'
+import '@carlos0202/cypress-metamask'
